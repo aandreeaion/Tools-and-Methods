@@ -1,0 +1,60 @@
+Nearly Half Of World's Population Could Suffer Extreme Heat By 2050, Oxford Study Warns The study finds that the share of people exposed to dangerously hot conditions could almost double from 23% in 2010 to 41% by 2050, putting an estimated 3.79 billion people at risk.
+Nearly half of the world's population could be living under conditions of extreme heat by the middle of this century if current fossil fuel use continues, according to new research from the University of Oxford. 
+
+The study finds that the share of people exposed to dangerously hot conditions could almost double from 23% in 2010 to 41% by 2050, putting an estimated 3.79 billion people at risk.
+
+The findings, published in Nature Sustainability, are based on a scenario in which global average temperatures rise by 2 degrees Celsius above pre-industrial levels, a threshold climate scientists increasingly believe could be reached within about 25 years given projected use of oil, coal and gas.
+
+In 2010, around 1.54 billion people were living in regions classified as experiencing extreme heat. By mid-century, that number could swell dramatically, with the heaviest burden falling on countries in the tropics and subtropics.
+Hotter where populations are largest
+
+Lead author Dr Jesus Lizana, Associate Professor of Engineering Science at Oxford, said the research highlights a stark mismatch between national averages and where people actually live.
+
+"India, Nigeria, Indonesia, Bangladesh, Pakistan, and the Philippines are projected to have the largest populations living under extreme heat, living under more than 3000 cooling degree days (CDD)," Lizana explained. "In these regions, the area-weighted mean of the country might be lower, but the majority of the population resides in areas where CDD exceeds 3000."
+
+Cooling degree days are a standard climate metric used to estimate how much energy is needed to keep indoor environments at safe temperatures. An increase in CDDs signals a growing need for air conditioning and other cooling measures.
+
+According to the study, countries such as Nigeria could see a 16% increase in cooling degree days between a 1 degrees Celsius world -roughly corresponding to the 2006-2016 period - and a 2 degrees Celsius world. Brazil could experience a 20% increase, while Uganda and Laos could see increases of around 25%.
+Fewer cold places, rising inequality
+
+While heat exposure rises sharply, the research shows that extreme cold will become less common. The share of the global population living in regions defined as "extremely cool" could fall from 14% to just 7% as warming reshapes climates worldwide.
+
+This shift brings uneven consequences. The Central African Republic, Nigeria, South Sudan, Laos and Brazil are expected to see the largest increases in cooling needs per person. In contrast, countries such as Canada, Russia, Finland, Sweden and Norway are projected to see the biggest decreases in heating needs.
+
+As a result, lower-and middle-income nations - many already struggling with limited infrastructure - are likely to face soaring energy demand for cooling, while wealthier northern countries benefit from reduced heating requirements.
+
+"Our study shows most of the changes in cooling and heating demand occur before reaching the 1.5 degrees Celsius threshold, which will require significant adaptation measures to be implemented early on," said Dr Lizana. 
+
+For example, many homes may need air conditioning to be installed in the next five years, but temperatures will continue to rise long after that if we hit 2.0 degrees Celsius of global warming.
+
+Northern countries not immune
+
+Although tropical regions face the greatest absolute heat burden, colder countries are not spared. The study finds that uncomfortably hot days could more than double in some northern nations as temperatures climb from 1 degrees Celcius to 2 degrees Celsius of warming.
+
+Compared with the 2006-2016 period, Austria and Canada could see a 100% increase in cooling degree days, while the UK, Sweden and Finland could see increases of around 150%. Norway could experience a 200% rise, and Ireland as much as 230%.
+
+Because buildings in these countries are largely designed to retain heat rather than release it, even moderate warming could have outsized impacts.
+
+"Given that the built environment and infrastructure in these countries are predominantly designed for cold conditions... even a moderate increase in temperature is likely to have disproportionately severe impacts," the authors warn.
+
+A warning on justice and urgency
+
+Dr Radhika Khosla, Associate Professor at the Smith School of Enterprise and the Environment and leader of the Oxford Martin Future of Cooling Programme, described the findings as a clear call to action.
+
+"Overshooting 1.5 degrees Celsius of warming will have an unprecedented impact on everything from education and health to migration and farming," she said. 
+
+Net zero sustainable development remains the only established path to reversing this trend for ever hotter days. It is imperative politicians regain the initiative towards it.
+
+An independent expert echoed those concerns. Dr Luke Parsons of The Nature Conservancy, who was not involved in the study, said the research shows the pace of change is accelerating.
+
+"This study shows we're on a path for extreme heat to impact people now and in the coming decades - we don't have to wait until later in the century to experience the negative consequences of climate change," Parsons said. "The environmental justice dimensions are also clear: low-income nations with higher social vulnerability... face some of the largest increases in extreme heat."
+
+He added that the "nonlinear acceleration highlighted in this study means mitigation and adaptation can't wait," stressing that decisions made in the next decade will determine livability for billions of people.
+
+Data to guide action
+
+The researchers used the HadAM4 climate model developed by the UK Met Office, which can run on distributed personal computers through the climateprediction.net network. This allowed them to generate high-resolution projections across different warming levels independently of when those temperature thresholds are reached.
+
+The study also releases an open-source global dataset of heating and cooling demand-30 maps at roughly 60-kilometre resolution-designed to help governments and planners integrate climate risk into sustainability and development policies.
+
+As the world edges closer to 1.5 degrees Celsius of warming, the authors argue, the message is unmistakable: the era of extreme heat is not a distant future problem, but a rapidly unfolding reality.
