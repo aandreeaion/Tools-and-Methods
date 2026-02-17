@@ -1,0 +1,32 @@
+Sweetening the deal for sustainability — while removing carbon dioxide
+
+A two-step method for converting carbon dioxide into carbohydrates has potential applications in agriculture and biotech.
+
+Here’s a novel pathway to a more sustainable planet: carbo-loading for the public good.
+
+In a new study published in Nature Synthesis, chemists at Yale and the University of California-Berkeley have developed a two-step process that removes carbon dioxide (CO2) from the air and converts it into carbohydrates, aka sugars.
+
+Previous studies from various research institutes, including Yale, have explored ways to convert CO2 into simple molecules, such as methanol and formate, that can be used as industrial feedstocks for other products and to reduce greenhouse gases. 
+
+The new study pushes this idea further. It describes a process for using renewable electricity to transform CO2 into long-chain carbohydrates (molecules with five or six carbon atoms), which are considered the molecular building blocks of life.
+
+“We were motivated by the successes and limitations of our own previous work,” said Hailiang Wang, a chemistry professor in Yale’s Faculty of Arts and Sciences, member of the Yale Energy Sciences Institute and Yale Center for Natural Carbon Capture, and co-corresponding author of the study. “The products we’ve made up to now, such as methanol, are very useful, but we wanted to develop conversions for even more complex and valuable products.”
+
+Wang also has a secondary appointment in materials science at the Yale School of Engineering & Applied Science.
+
+In the new study, Wang and his colleagues begin with an electrochemical reaction that, if left uninterrupted, will convert carbon dioxide into methanol. However, the researchers halt the process in mid-reaction — when the molecule is formaldehyde.
+
+At this point, the researchers convert the formaldehyde molecule into a molecule called hydroxymethanesulfonate (HMS), an organosulfur compound that is stable against further reduction.
+
+“Formaldehyde is so reactive, it is challenging to work with,” Wang said. “But we’ve been able to stabilize it.”
+
+The HMS can then be converted, in a thermochemical reaction, into carbohydrates, such as synthetic sugars for agricultural feedstocks and sweeteners. In addition to these potential uses in agriculture and food production, the new chemical process may have applications in drug design and biotech, Wang said.
+
+Such applications are all in addition to the environmental benefits of disposing of CO2 — a main contributor to climate change.
+
+The researchers are planning to refine the results with additional research and are pursuing a patent application for the process.
+
+The co-corresponding author of the study, along with Wang, is Peidong Yang of the University of California at Berkeley. The co-lead authors are Jing Li and Kedang Chen of Yale. Additional co-authors are Nathan Edward Soland of the University of California at Berkeley and Jindou Yang, Yuanzuo Gao, Seonjeong Cheon, and Yuming Su of Yale.
+
+The National Science Foundation, a National Brown Investigator Award, and the Yale Center for Natural Carbon Capture supported the research.
+

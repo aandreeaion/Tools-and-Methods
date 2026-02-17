@@ -1,0 +1,28 @@
+Contamination Hauts-de-France: 83,000 people are drinking non-compliant water due to an excess of fungicide
+Fluopyram, an active ingredient widely used in France, has been found at levels exceeding the regulatory quality limit in 17 water distribution units in the region, warns the NGO Générations 
+
+In the Hauts-de-France region, 83,000 people have been drinking substandard water for several months. The association Générations Futures issued a warning on Wednesday, January 28th, about the presence of the fungicide fluopyram at concentrations exceeding the regulatory limit of 0.1 micrograms (µg) per liter in the region. These findings were made possible thanks to the "Dans mon eau" (In My Water) tool, developed by the NGO to make drinking water quality data more visible .
+
+"This situation affects 17 drinking water distribution units (UDIs) supplying a total of 46 municipalities (24 in the Pas-de-Calais department, 19 in the Somme, and 3 in the Nord) ," the group points out. This situation has persisted for several months, and even for a year in some municipalities.
+
+These non-conformities have been detected in most cases since the beginning of 2025 and have all been confirmed by several analyses. "The exceedances of the quality limit are sometimes significant, with concentrations averaging 4 to 5 times higher than the quality limit and reaching more than 10 times the regulatory limit in two municipalities ," the association explains. The highest concentration was found in Inchy-en-Artois (Pas-de-Calais), with a level of 1.778 µg/L measured in August 2025, more than 17 times the quality limit.
+
+Fluopyram is an authorized fungicide found in 37 products currently marketed in France. In 2023, 127 tons of this substance were applied to various crops (cereals, potatoes, sugar beets, fruit trees, etc.). While not classified as hazardous to human health by the European Chemicals Agency (ECHA), fluopyram is the subject of debate regarding its carcinogenic potential. A proposal from Austria to classify it as a suspected carcinogen (category 2) is currently under consideration. Furthermore, the mechanism of action of the fungicide family to which fluopyram belongs could be responsible for neurological diseases or cancers, according to Générations Futures.
+
+No restrictions
+For its part, the Hauts-de-France Regional Health Agency (ARS) indicates on its analysis reports that these non-conformities "do not preclude the consumption of the water." "This conclusion raises questions for us, due to the poor assessment of the carcinogenic potential and, above all, because there is currently no established maximum daily limit (Vmax) for fluopyram in drinking water ," notes the association, which points out that in the absence of a Vmax, public health authorities recommend restricting water consumption, as a precaution, as soon as the quality limit of 0.1 µg/L is exceeded. This is especially concerning given that the public was not informed by mail of these non-conformities and that no consumption restrictions were imposed.
+
+Other factors are alarming: fluopyram belongs to the PFAS chemical family, and according to data provided by Bayer, it degrades slowly into TFA. The presence of fluopyram in drinking water therefore suggests contamination by TFA, an extremely persistent molecule that penetrates almost all drinking water treatment methods.
+
+Interview
+
+PFA contamination: "Everyone understood that this was probably the health scandal of the coming decades."
+
+Furthermore, other molecules are also present in the water beyond regulatory or health limits, as in Vaulx-Vraucourt (Pas-de-Calais), where nitrates and perchlorates also exceed the limits in force. As such, the water "should at the very least be prohibited for consumption by pregnant women and infants ," denounces Générations Futures.
+
+The numerous non-conformities observed likely result from inappropriate use and demonstrate the impossibility of predicting the behavior of molecules under real-world conditions. Fluopyram's persistence in soils could be far greater than modeled, and the molecule could well contaminate groundwater.
+
+Pesticides
+“This fluopyram contamination of drinking water is yet another example of the consequences of intensive pesticide use and the inaction of public authorities in protecting catchment areas,” notes Pauline Cervan, a toxicologist at Générations Futures. “This inaction is once again exposing populations to dangerous substances and placing communities and drinking water producers in very difficult situations, as the techniques in place are often insufficient to treat pesticides. It is urgent to take decisive action to finally protect our water resources.”
+
+While Prime Minister Sébastien Lecornu has announced a moratorium on all water-related issues, parliamentarians will have to vote on February 12 on a bill aimed at protecting water catchment areas.

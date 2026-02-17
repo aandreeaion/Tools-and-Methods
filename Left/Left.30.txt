@@ -1,0 +1,46 @@
+EIA: 99%+ of new US capacity in 2026 will be solar, wind + storage
+
+Solar set new records in November
+EIA’s latest monthly “Electric Power Monthly” report (with data through November 30, 2025), once again confirms that solar is the fastest-growing among the major sources of US electricity.
+
+In November alone, electrical generation by utility-scale solar (>1 megawatt (MW)) expanded by 33.9% compared to November 2024, while “estimated” small-scale (eg, rooftop) solar PV increased by 11.0%. Combined, they grew by 27.5% and provided 7.2% of US electrical output during the month, up from 5.9% a year ago.
+
+Moreover, utility-scale solar thermal and photovoltaic expanded by 34.5% while that from small-scale systems rose by 11.3% during the first 11 months of 2025 compared to the same period in 2024. The combination of utility-scale and small-scale solar increased by 28.1% and produced a bit under 9.0% (utility-scale: 6.74%; small-scale: 2.13%) of total US electrical generation for January to November, up from 7.1% a year earlier.
+
+Wind is still in the lead
+Wind turbines across the US produced 10.1% of US electricity in the first 11 months of 2025 – an increase of 1.2% compared to the same period in 2024. In November alone, wind-generated electricity was 2.0% greater than a year earlier.
+
+During the first 11 months of 2025, electrical generation by wind plus utility-scale and small-scale solar increased by 12.2% and provided 19.0% of the US total, up from 17.3% during the first 11 months of 2024.
+
+Wind and solar combined provided 16.9% more electricity than did coal during the first 11 months of this year, and 10.1% more than US nuclear power plants.
+
+Renewables make up 26% of US generation
+The mix of all renewables (wind, solar, hydropower, biomass, and geothermal) produced 8.7% more electricity in January-November than a year earlier and accounted for 25.7% of total US electricity production, up from 24.3% 12 months earlier.
+
+Renewables’ share of electrical generation is now second to only that of natural gas, whose electrical output actually dropped by 3.7% during the first 11 months of 2025.
+
+Solar and storage dominated new 2025 capacity
+Between January 1 and November 30, 2025, utility-scale solar capacity grew by 22,237.2 MW, while small-scale solar capacity increased by 5,460.5 MW. EIA foresees continued strong solar growth, with even more utility-scale solar capacity (37,156.6 MW) being added in the next 12 months.
+
+Battery storage, which grew by 49.4% since the beginning of the year and added 13,357.0 MW of new capacity, saw explosive growth. EIA also notes that planned battery capacity additions during the next 12 months total 21,502.2 MW, a further increase of 53%.
+
+Wind has also made a strong showing since January 1, adding 4,234.2 MW, while planned capacity additions over the next year total 9,256.2 MW (onshore) plus 1,515.0 MW (offshore).
+
+On the other hand, during the past 11 months, natural gas capacity increased by 4,152.2 MW, and nuclear power added a mere 46.0 MW. Meanwhile, coal capacity plummeted by 4,141.1 MW, and petroleum-based capacity fell by an additional 514.1MW.
+
+Thus, since January 1 to November 30, roughly the beginning of the Trump administration, renewable energy capacity, including battery storage, small-scale solar, hydropower, geothermal, and biomass, ballooned by 45,198.1 MW, while all fossil fuels and nuclear power combined declined by 519.2 MW.
+
+In 2026, it’s about renewables and storage
+EIA forecasts that the trends seen in 2025 YTD will continue and accelerate over the coming 12-month period.
+
+Utility-scale renewables plus battery storage are projected to increase by 69,579.1 MW. (EIA does not provide a forecast for small-scale solar, but, based on recent growth rates, the SUN DAY Campaign estimates it will provide an additional 6,000 MW or more.)
+
+Meanwhile, natural gas capacity will increase by only 3,960.7 MW, which will be almost completely offset by a decrease of 3,387.0 MW in coal capacity. Petroleum and “other gases” will decrease by 10.4 MW. In addition, EIA does not project any new nuclear power growth in the coming year.
+
+Thus, in 2026, renewables and battery storage will account for 99.2% of net new capacity – and even higher if small-scale solar were included.
+
+Should that forecast materialize, by November 30, 2026, the mix of all renewables, including small-scale solar, would reach 508,699.7 MW – almost equal to that of natural gas (514,484.1 MW), accounting for over 36% of US generating capacity – and that does not include the capacity provided by battery storage.
+
+The installed capacity of utility-scale and small-scale solar combined (247,534.5 MW) would surpass that of wind (167,102.7 MW). Solar capacity would also exceed coal capacity (166,649.5 MW) and more than double nuclear power capacity (98,437.2 MW), although the latter two sources would still have significantly higher capacity factors.
+
+“For more than a year now, members of the Trump administration have sought to stop the growth of wind and solar … and have failed,” said Ken Bossong, the SUN DAY Campaign’s executive director. “Perhaps it is time for them to finally recognize renewable energy’s unstoppable growth and either get with the program or else just get out of the way.”

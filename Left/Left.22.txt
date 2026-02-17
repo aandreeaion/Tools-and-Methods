@@ -1,0 +1,76 @@
+Are Incentives for Fuel Made from Livestock Manure Leaving Small Farmers Behind?
+A petition urging the removal of grants and loans for manure digesters from the Rural Energy for America Program highlights concerns that biogas incentives favor factory farms at the expense of smaller livestock operations.
+
+Biogas made from dairy and pig manure has long been an energy source non grata for environmental groups across the country. 
+
+The fuel is touted by agribusiness, utilities and renewable natural gas developers as a way to reduce emissions from livestock operations. But advocates across the country have fought for years against government incentives for the fuel, arguing that its production diverts resources from cleaner energy sources and worsens local air and water pollution. 
+
+A recent petition from a coalition of environmental and farmer advocacy groups makes another case against the incentives—that they’re excluding small farmers and giving a leg up to large factory farms that are proliferating across the nation.
+
+In a letter to the U.S. Department of Agriculture earlier this month, the groups asked the agency to remove grants and loans for digesters—devices that farmers install over their manure lagoons to capture methane emissions and convert the gas into fuel—from their Rural Energy for America Program (REAP).
+
+“Digesters are not suitable for small farms, which tend to generate less waste and have smaller budgets, so subsidies for digesters and biogas primarily benefit large, industrial operations,” reads the letter, signed by 34 groups across the country including Friends of the Earth (FOE), Earthjustice, Farm Aid, National Family Farm Coalition and the Institute for Agriculture and Trade Policy. “Support for digesters reinforces the economic advantages that these large operations already have.”
+
+The groups examined grants from the REAP program, which launched in 2002 to promote rural economic development and help farmers and small businesses cut energy costs by funding efficient and renewable energy projects. 
+
+They found that of the $3.2 billion in grants and loans that the program doled out for projects like solar panels, wind turbines and energy efficiency upgrades between 2021 and 2025, about $257 million went to 55 new manure digesters.
+
+That’s not a lot relative to the total spending, but the groups argue that the money could have gone to a greater number of smaller projects which are more accessible to small farms, which  they say the oversubscribed program was designed to support. 
+
+The REAP program grant-scoring criteria favors applicants requesting $250,000 or less, but only four of the digester project grants fell under that threshold.
+
+New manure digesters received average grants of $855,701 and average loan guarantees of $19,847 from 2021 to 2025. Meanwhile, for the 8,023 solar projects funded by the program in that period, the average grant was $131,480 and the average loan guarantee was $6,445. The average grant for 157 wind projects was $95,202.
+
+The USDA delayed its REAP grant application window last summer, citing a backlog of applications “due to the overwhelming response and continued popularity of the program.”
+
+The petition argues that installing digesters, which cost between $2 million and $12 million depending on their size and design, doesn’t make sense for small farms that don’t have big manure lagoons, so the money is likely going to large operations.
+
+REAP does not publish farm sizes for its awards, but the Environmental Protection Agency’s AgSTAR program notes that successful digester systems typically operate with at least 500 cows and that dairy farms with over 1,000 animals and hog farms with over 5,000 animals will have the most likelihood of success, given the benefits of economies of scale for selling biogas.
+
+Friends of the Earth (FOE) filed a public records request in early January seeking information on the agency’s decision-making on digester grants and Earthjustice sued the agency on behalf of FOE on January 14th after it withheld the records. 
+
+Molly Armus, program manager for animal agriculture policy with FOE, which co-led the petition, said the small to mid-size farms they would like to see funded have fewer than 1,000 animals. She said the farms that have pursued and developed digesters around the country are typically much larger than that.
+
+“To take advantage of the economies of scale, you really do need very, very large farms that can continually produce enough manure to produce that gas,” said Armus. She added that industrial- scale farms are more likely than small farms to use the liquid manure management systems that pair with digesters. 
+
+A February 2025 analysis from the American Biogas Council trade group found that 61 percent of the approximately 397 dairy digesters in the country exist on farms with over 2,500 cows. Twenty-one percent are on farms with 1000 to 2500 cows. And eighteen percent are on farms with fewer than 1,000 cows.
+
+The petition argues that, in addition to excluding small farmers, grants for digesters are unintentionally encouraging farm consolidation, as incentives for biogas production can encourage herd expansion to produce more fuel. 
+
+In California, where a state program funnels hundreds of millions of dollars each year to both in-state and out-of-state digester projects, there has been a heated debate about whether it’s happening. The petition cited papers from around the country showing that herds on farms with digesters grew faster than typical rates. A November 2025 study of 237 dairy operations in California found that farms with digesters added an estimated 860 additional cows three years after anticipating digester construction.
+
+But, in 2024, the California Air Resources Board concluded that digesters don’t drive farm consolidation. Their analysis confirmed that the total number of dairies in the state has declined, while the average number of cows at the remaining dairies has increased due to consolidation. But they found no significant difference in herd size growth between dairies that installed digesters and those that didn’t. 
+
+Michael Boccadoro, head of the California trade group Dairy Cares, said the trend of farm consolidation is driven by other factors.
+
+“Dairies are consolidating and have been every year for decades,” said Boccadoro in an email. “The regulatory environment and increasing cost of doing business are driving it as small dairies struggle to manage.”
+
+Most farmers don’t own their digesters, which removes the incentive to expand production, he added, pointing out that the total number of cows in the state has gradually declined even as dairies have consolidated and average herd sizes have grown. According to a report prepared for the California Cattle Council, the average California dairy herd size grew from 481 cows in 1997 to 1,514 cows in 2022, and the national average herd size grew from 73 to 258 cows. Food and Water Watch calculated the average California herd size that year at 2,300 animals.
+
+“All of these dairies in California, whether they’re 500 cows or 2000 cows or bigger, all are family-owned and operated,” Boccadoro said in an interview. “They just have to be big in California, because it’s an extremely expensive place to do business.”
+
+On the same day the groups filed the petition, USDA’s Rural Business-Cooperative Service (RBCS), which manages REAP, circulated a notice announcing a 90-day pause on the acceptance, processing and awarding of digester loans while the agency conducts a review of its existing portfolio.
+
+The announcement noted that 21 loans for anaerobic biodigesters totaling $386.4 million are currently delinquent about$102.6 million, or 27 percent. RBCS also paused loans for controlled environment agriculture, such as vertical farming, hydroponics and aquaponics. 
+
+The petition from environmentalists and small farm advocates argued that digesters are not a good use of taxpayer money because of the high costs relative to the low energy output they produce. Digesters that received loans under the program generated 4.5 times less energy per dollar than solar projects that received loans, the petitioners said.
+
+They also argued that digester operators struggle to recoup their costs, citing studies and their own analysis showing that 17 percent of 571 EPA-tracked digesters shut down after operating for an average of 7 years, sometimes due to financial issues.
+
+A spokesperson for RCBS said the letter did not influence the decision to pause loans, which was already in the works before the petition landed.
+
+“The decision was based on a review of projects across the Rural Business-Cooperative Services portfolio, including delinquency rates, project performance, and operational sustainability, all of which indicated losses to taxpayers,” they said in a statement.
+
+Dylan Chase, senior manager of communications for the Renewable Natural Gas Coalition, said the trade group hopes USDA will reinstate funding for digesters, “a well-established and scientifically supported means of managing methane emissions.” 
+
+Patrick Serfass, executive director of the American Biogas Council, called the arguments made in the petition “baseless” and said he wasn’t worried about REAP cutting funding for digesters in the long term. The program is meant to support small and large farms, the latter of which have the highest potential to reduce overall livestock emissions and generate renewable energy through digesters, he said.
+
+He added that small farms can install digesters, but they typically have to partner with an entity producing food waste to achieve scale. 
+
+“It’s harder because you have a longer return-on-investment, and you have to bring in food waste to make that work,” he said.
+
+In addition to their arguments about the economics of digesters, the petitioners expressed many environmental concerns, citing research showing that digester waste emits more ammonia than traditional manure and contains nitrogen and phosphorus in more water-soluble forms, heightening the threat to human health. They cited examples of digesters overflowing, spilling pollution into the surrounding environment, and noted that the REAP program is also meant to promote clean air and water.
+
+Armus hopes the points raised about digester grants that exclude small farmers and spend taxpayer money on expensive, inefficient projects will reach the Trump administration, which in March asked REAP applicants to remove references to climate change and to diversity, equity, and inclusion from their applications. 
+
+“It’s an argument we and a lot of our allies have made for a long time, because there is bipartisan support for this,” said Armus. “It’s an argument that resonates at every level of government, right from the local folks all the way up to the federal level. We hope it resonates with this administration, but also with any legislator concerned about how we’re using conservation dollars.”
