@@ -1,0 +1,27 @@
+General ad campaign for climate action receives more public engagement than tailored approach, study finds
+Researchers investigating the effectiveness of outdoor ads promoting climate change awareness and action found that a general message of climate emergency awareness received more QR code scans compared to a more-specific campaign focusing on sustainable fashion, according to a study published in PLOS Climate by Maxwell Boykoff from the University of Colorado Boulder, U.S., and colleagues.
+Study design and demographic details
+Advertising can help shape public opinion, for better or worse. Climate advocates and climate change activists are now using advertisements to promote their messages to the public. In this study, Boykoff and colleagues attempted to gauge the public impact of a real-world climate advocacy campaign.
+
+The authors analyzed QR code scan data from two waves of a real-world advertising campaign designed to raise climate change awareness that ran from November 2022 through February 2023 in a targeted area in the Southwest of the United States.
+
+According to US Census data, the median age in the targeted area at the time the experiment ran was 37.5 years old, with a poverty rate of about 11%, an unemployment rate of 4.5% and an average commute time of 23.2 minutes through various modes of transportation. Ethnically, the targeted population was 75% white, 15% Hispanic/Latino, 5% Asian, and 1% Black/African American.
+
+Ad campaign content and results
+There were large and medium-sized advertisements in both English and Spanish which ran on the exterior as well as interior of buses, as well as static billboards. The first wave of advertisements were all generalized messages, such as: "Take climate action: we're all in this together" or "Boulder is in a climate emergency. Right here. Right now."
+
+The second wave of advertisements were more specific and related to environmental issues in the fashion industry, such as: "Sustainable fashion requires community-wide effort" or "Your gear can be green even if you ski [black diamonds]."
+
+Overall, public engagement was higher for the general climate change action messages than for the sustainable fashion messages, though the differences were not always statistically significant; for the largest exterior bus ads, this difference was statistically significant and general messages were 3.0 times more likely to be scanned compared to sustainable fashion messages.
+
+For ads with the same message but different formats, static billboards were almost 2.5 times more likely to receive QR code scans compared to any other format; billboards and the larger exterior bus ads were the most-scanned formats for ads, with engagement significantly increasing as advertisement sizes increased.
+Limitations and future directions
+The results have some limitations: for instance, there was no control group or comparison with other locations, and there was no information collected regarding the members of the public scanning the codes due to privacy concerns.
+
+The authors hope that future pro-environmental communications experiments are able to build on their results in order to create successful campaigns.
+
+Lead author Maxwell Boykoff says, "This study was a great example of interdisciplinary collaborations—through advertising, the arts and environmental studies and sciences—that are needed to address intersecting climate change considerations relating to human engagement going forward."
+
+Boykoff adds, "This research provides insights for ongoing research to understand the utility of advertising—by carbon-based industry, by groups seeking to inspire greater pro-environmental behavior—that seeks to shape and influence awareness and behavioral action.
+
+"This study contributes to ongoing pursuits to better understand the interactions between communication, (mis/dis)information-sharing, education and literacy in contemporary society."

@@ -1,0 +1,23 @@
+VC firm 2150 raises €210M fund to solve cities’ climate challenges
+If you want to solve climate change, there are few better places to start than cities. 
+
+“The city is kind of like this beautiful vampire squid that sucks in all the resources,” Jacob Bro, co-founder and partner at 2150, told TechCrunch. “They basically aggregate all the prosperity in the world — 80% of GDP — but also 70% of emissions and all the other resources, all the waste, and all the downsides of the good life.”
+Plenty of investors have raised large funds to tackle climate change in recent years, with many measuring success by returns and carbon reductions. 2150 does the same, but to find fertile ground for investments, it starts by looking at problems and opportunities in cities, specifically.
+
+“If we look at all the stuff we consume, all the stuff we need to build, to make the urban platform of prosperity operate and thrive, you can identify technologies and the bottlenecks,” Bro said. 
+
+The climate angle helps give the fund an edge, he said. “Sustainability, if done well, is just better business, right? It’s cheaper, faster, and more independent from geopolitics.”
+
+That dual focus has helped 2150 raise a new €210 million second fund from a range of institutional investors and family funds, including Chr. Augustinus Fabrikker, Church Pension Group, the Danish sovereign fund EIFO, Fund of Funds Carbon Equity, Novo Holdings, Islandbridge Capital, Security Trading Oy, and Viessmann Generations Group. The new fund brings the European firm’s assets under management to €500 million.
+
+In total, the new fund has 34 limited partners, said Christian Hernandez, co-founder and partner at 2150. “Pretty meaty checks,” he added.
+So far, 2150 has invested in seven companies from the new fund, including AtmosZero, which makes industrial heat pumps; GetMobil, an e-waste recycling startup; Metycle, a scrap and recyclable metals marketplace; and MissionZero, a direct air capture startup. Three others have yet to be announced.
+
+In total, 2150 is looking to invest in 20 companies in the second fund. Most startups it writes checks to will be raising Series A rounds, and the checks will total around €5 million to €6 million, Hernandez said. Half of the fund will be reserved for follow-on investments.
+
+The partners said they’ll be looking for a range of startups, similar to before. Specifically, though, they’re excited by opportunities in data centers and automation, both of which have been spurred by the recent surge in AI. But for them, AI is more than just an opportunity to invest in energy-related companies. 
+“The impact there is more societal than it is climate-related,” Hernandez said. “Europe is expected to lose 100 million people between now and 2040 — just people getting older. The Netherlands already has 50% of their population over the age of 50. So what role does industrial automation help with helping those people be productive, but also generating GDP and funding those people’s pensions?” he said.
+
+Bro said the focus on industrial applications was perhaps obvious in hindsight. “Cities are all supplied by large or small industries at the end of the day,” he said.
+
+The focus appears to be paying off. 2150’s portfolio companies mitigated one megaton of carbon emissions last year, Hernandez said. “The fact that a small venture capital fund can already get to the megaton-level scale in only four years, that level of impact, along with the commercial traction, makes me feel like we’re doing the right thing.”

@@ -1,0 +1,25 @@
+Sea levels are rising—but in Greenland, they will fall
+Even as global warming causes sea levels to rise worldwide, sea levels around Greenland will likely drop, according to a new paper published in Nature Communications. "The Greenland coastline is going to experience quite a different outcome," says lead author Lauren Lewright, a Ph.D. student in geophysics working at the Lamont-Doherty Earth Observatory, which is part of the Columbia Climate School. "Sea level in Greenland is actually projected to fall."
+According to the study, the decline in sea level will likely measure about 0.9 meters (nearly three feet) in a low-emissions future and 2.5 meters (8.2 feet) in a high-emissions future by the year 2100.
+
+That seemingly paradoxical dynamic results from several factors. Foremost among them is the rebound of land beneath the Greenland Ice Sheet, a mile-thick body of glacial ice that covers 80% of the island and is being lost to melting at a rate of roughly 200 billion tons each year.
+
+As the ice sheet loses mass, the land beneath rises. Study co-author Jacqueline Austermann, also a geophysicist at Lamont-Doherty, likens this effect to the decompression of a memory-foam mattress after the person lying on it gets up.
+
+Both recent and historic ice loss are driving Greenland's ongoing rebound and, as the island rises, the resulting decline in sea levels. Meanwhile, as mass is lost from the ice sheet, sea levels will decline even further because of another factor, one little-appreciated in the context of climate change: gravity.
+
+"When the ice sheet is very large, it has a lot of mass. The sea surface is pulled toward the ice sheet because of that gravitational pull," explains Lewright. "As the ice sheet loses mass, its gravitational pull on the sea surface decreases. That translates into sea level fall." The researchers estimate that this effect will account for up to 30% of Greenland's future sea level decline. Both effects together—land and gravity change—are technically known as glacial isostatic adjustment.
+Other scientists have studied Greenland's glacial isostatic adjustment, but Lewright and colleagues took a uniquely comprehensive approach: They leveraged both observations of historical sea level change that occurred over the past thousands of years as well as more than two decades' worth of elevation change data gathered from signals at 57 satellite communication towers around the island.
+
+By comparing modeled estimates of sea level and land level changes to these observations, they confirmed what has been found in earlier work on Greenland: the rapid uplift rates can only be explained if Earth reacts to ice loss faster than scientists previously assumed.
+
+Including this quicker response—akin to a memory-foam mattress that is less stiff—also leads to faster adjustment and hence larger sea level fall around the island this century. This factor in particular is one that has been overlooked in previous global studies of future sea level change.
+
+The researchers' models ultimately predict that, under a scenario in which global greenhouse gas emissions are kept low, sea levels around Greenland will be between 0.73 meters and 1.1 meters (2.4 to 3.6 feet) lower by the end of the 21st century, with a middle-range estimate of 0.9 meters (3 feet). Under a high-emissions scenario, sea levels are expected to fall by 1.7 meters to 3.8 meters (5.6 to 12.5 feet), with a middle-range estimate of 2.5 meters (8.2 feet).
+"The impacts are going to be very different than pretty much anywhere else in the world," says Austermann.
+
+Coastal communities whose infrastructure was built for contemporary sea levels may be left high and dry. "The biggest impact is on local communities and the effects on shipping routes, fishing and infrastructure," says Austermann. There is also a possibility that falling Greenlandic sea levels will cause certain glaciers to stabilize where they enter the ocean, potentially slowing their loss. "But we don't know if the amount of predicted sea level fall is enough for this stabilizing effect to take place," says Austermann.
+
+The findings emerged from a project called Greenland Rising that studies the impacts of local sea level changes in Greenland. They highlight the importance of locale-specific sea level mapping. Though Greenland is unique in its expectation of sea level decline, the contours of rises elsewhere will be shaped by local circumstances.
+
+"Different regions will have different factors that affect sea level at that locality," Austermann says. "Any sea level projection or consideration needs to be done on a local or regional scale."

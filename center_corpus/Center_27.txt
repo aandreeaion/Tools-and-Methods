@@ -1,0 +1,14 @@
+Diesel Set to Rise as Data Centers Can Run Backup Generators
+Last Resort Would Prevent Rolling Blackouts
+As punishing cold strains electric grids across the U.S., operators are considering ordering data centers to run diesel-powered backup generators, a move that threatens to push prices for distillate fuel up further.
+
+On Jan. 26, the Department of Energy authorized PJM Interconnection, the country’s largest power grid operator, and two units of Duke Energy Corp. to direct data centers and other large facilities to run backup generators as a last resort to prevent rolling blackouts.
+The move effectively allows power destined for industrial-scale customers to be diverted to households and the rest of the grid as heating demand tests the upper limits of electricity supplies.
+
+PJM is expecting an unprecedented level of seasonal demand through the end of the month, but so far power supply and demand imbalances haven’t reached the critical level at which backup generators might come online.
+But if fleets of backup power sources kick in, it would add “another upward stress” for the diesel market, said Ryan McKay, senior commodity strategist at TD Bank.
+Industrial facilities typically keep fuel on site, but owners of backup generators will look to resupply that fuel, said Robert Yawger, director of the energy futures division at Mizuho Securities USA. Some, he predicted, will lock in lower prices by purchasing futures contracts.
+
+“You’re definitely going to see a boost in heating oil prices as a function of all this,” Yawger said, projecting that diesel futures will reach $2.75 a gallon by week’s end in the event that backup generators come online.
+Heating oil futures have risen 25% in January. The surge is largely driven by cold weather pushing up demand for heating oil and curtailing operations at some U.S. refineries. Also, utility-scale power plants that can burn fuel oil are often brought online as electricity demand spikes. And with the price of natural gas skyrocketing, power plant operators that can burn both oil and gas can save on costs using diesel.
+For now, diesel supply looks sufficient, with national stockpiles in-line or above prior-year levels in the most recent data. That rings true in Virginia, home to the country’s largest cluster of data centers, said Mike O’Connor, president and CEO of the Virginia Petroleum Convenience Marketers Association. 

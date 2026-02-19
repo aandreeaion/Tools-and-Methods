@@ -1,0 +1,24 @@
+Ocean damage nearly doubles the cost of climate change
+Ignoring the blue economy has left a multi-trillion-dollar blind spot in climate finance.
+The global cost of greenhouse gas emissions is nearly double what scientists previously thought, according to a study published Thursday by researchers at the University of California, San Diego’s Scripps Institution of Oceanography.
+
+It is the first time a social cost of carbon (SCC) assessment—a key measure of economic harm caused by climate change—has included damages to the ocean. Global coral loss, fisheries disruption, and coastal infrastructure destruction are estimated to cost nearly $2 trillion annually, fundamentally changing how we measure climate finance.
+“For decades, we’ve been estimating the economic cost of climate change while effectively assigning a value of zero to the ocean,” said Bernardo Bastien-Olvera, who led the study during his postdoctoral fellowship at Scripps. “Ocean loss is not just an environmental issue, but a central part of the economic story of climate change.”
+
+The social cost of carbon is an accounting method for working out the monetary cost of each ton of carbon dioxide released into the atmosphere. “[It] is one of the most efficient tools we have for internalizing climate damages into economic decision-making,” said Amy Campbell, a United Nations climate advisor and former British government COP negotiator.
+
+Calculations have historically been used by international organizations and state departments like the US Environmental Protection Agency to assess policy proposals—though a 2025 White House memo from the Trump administration instructed federal agencies to ignore the data during cost-benefit analyses unless required by law.
+
+“It becomes politically contentious when deciding whose damages are counted, which sectors are included and most importantly how future and retrospective harms are valued,” Campbell said.
+Excluding ocean harm, the social cost of carbon is $51 per ton of carbon dioxide emitted. This increases to $97.20 per ton when the ocean, which covers 70 percent of the planet, is included. In 2024, global CO2 emissions were estimated to be 41.6 billion tons, making the 91 percent cost increase significant.
+Using greenhouse gas emission predictions, the report estimates the annual damages to traditional markets alone will be $1.66 trillion by 2100.
+
+The study, which began in 2021, brought together scientists from multiple disciplines: Fisheries experts, coral reef researchers, biologists and climate economists. They assessed downstream climate change costs across four key sectors—corals, mangroves, fisheries, and seaports—measuring everything from straightforward market loss of reduced fisheries and marine trade to reductions in ocean-based recreational industries.
+
+Researchers also placed a monetary figure on what economists call non-use values. “Something has value because it makes the world feel more livable, meaningful, or worth protecting, even if we never directly use it,” said Bastien-Olvera, referencing the fiscal merit of ecosystem enjoyment and the cultural loss caused by climate change. “Most people will never visit a coral reef during a full-moon spawning event, or see a deep-sea jellyfish glowing in total darkness. But many still care deeply that these things exist.”
+
+Island economies, which rely more on seafood for nutrition, will face disproportionate financial and health impacts from ocean warming and acidification, the study said. “The countries that have the most responsibility for causing climate change and the most capacity to fix it are not generally the same countries that will experience the largest or most near-term damages,” said Kate Ricke, co-author and climate professor at UCSD’s School of Global Policy and Strategy. Including ocean data in social cost of carbon assessments reveals increased consequences for morbidity and mortality in low-income countries facing increased nutrition deficiency.
+
+Despite the scale of the scientific discovery, Bastien-Olvera and Ricke are optimistic this data will be a wake-up call for international decision-making. “I hope that the high value of ‘blueSCC’ can motivate further investment in adaptation and resilience for ocean systems,” said Ricke, using the term of the ocean-based social cost of carbon and referencing the opportunities to invest in coral reef and mangrove restoration projects.
+
+Meanwhile, Bastien-Olvera believes centering the framework on oceans also recognizes the longstanding conservation approaches of coastal communities, ocean scientists and Indigenous peoples. “For a long time, climate economics treated the ocean values as if it were worth zero,” he said. “This is a first step toward finally acknowledging how wrong that was.”

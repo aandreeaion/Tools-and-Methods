@@ -1,0 +1,41 @@
+Warming may increase mangrove methane emissions—but these forests remain powerful carbon sinks
+Mangrove forests play an important role in the global carbon cycle, particularly within the marine carbon system. Growing along tropical and subtropical coastlines, these salt-tolerant trees are among nature's most efficient "blue carbon" sinks, capturing and burying vast amounts of carbon dioxide that would otherwise warm Earth's atmosphere. Much of this carbon is stored in thick, waterlogged soils, where it can remain locked away for centuries, making mangroves a major contributor to long-term coastal carbon sequestration.
+Mangroves are also natural sources of methane, a greenhouse gas that traps far more heat than carbon dioxide over short timescales.
+
+New research published in Geophysical Research Letters shows that as the climate warms, methane emissions from mangrove forests are likely to increase. While that may sound concerning, scientists say the broader picture still shows mangroves as net climate allies—just ones that deserve a more nuanced role in climate models.
+
+The warming effect
+An international team of ocean and climate scientists combined detailed field measurements from mangrove ecosystems in Australia with a global synthesis of existing data to tease apart the relationship between temperature and methane release.
+
+The study identified temperature as the single strongest predictor of methane emissions, with methane fluxes increasing exponentially rather than linearly as conditions warmed.
+
+The researchers estimate that a 1°C increase in temperature would boost local water-atmosphere methane emissions by around 23%. This means relatively small increases in average temperature can lead to disproportionately larger increases in methane release, particularly in already warm environments where microbial activity is near its upper limits.
+
+Under the broader context of tropicalization (the poleward expansion of mangroves into newly suitable climates, as already observed along coastlines in North America, Australia, and East Asia), elevated temperatures are expected to further enhance methane production. Warmer conditions stimulate the growth of methanogenic archaea, the microorganisms responsible for methane formation, increasing the rate at which organic matter is broken down and converted into gas.
+Scaling the signal
+To determine whether these local patterns held at larger scales, the researchers compared their Australian data with methane measurements from 33 mangrove sites worldwide, spanning tropical and subtropical regions.
+
+Collectively, a 1°C rise in temperature was associated with a ~13% increase in methane emissions. Beyond temperature, salinity showed a strong negative effect, confirming that freshwater inputs tend to promote higher methane release.
+
+The analysis also revealed a strong latitudinal signal. Mangrove methane emissions in the tropics were around 2.5 times higher than those measured in subtropical forests. Tropical mangroves were, on average, 3.5°C warmer, supporting the idea that temperature plays a central role in regulating emissions.
+
+Higher rainfall, larger carbon stocks, and faster organic matter decomposition in tropical sediments further enhance methane production, reinforcing the temperature signal. Global mangrove methane emissions are therefore projected to increase 10–33%, depending upon future temperature trajectories.
+
+A balancing act
+Despite these increases, methane emissions account for only a small fraction of mangrove carbon budgets on a mass basis (~0.2% of soil carbon burial). The difference lies in methane's potency. Over a 20-year time frame, methane has a global warming potential approximately 96 times greater than carbon dioxide, meaning even small emissions can have an outsized short-term climate impact.
+
+When converted into carbon dioxide equivalents, global mangrove methane emissions offset approximately 6–8% of mangrove carbon burial over 20 years. However, carbon sequestration is also expected to increase with warming due to enhanced plant productivity and sediment accumulation.
+
+Global mangrove soil carbon burial is projected to increase by more than 50% between 2020 and 2100, meaning methane offsets may decline proportionally over time. So, while methane releases matter for short-term warming, they don't outweigh mangroves' continued role in storing carbon long-term.
+Pathways of the future
+The balance between carbon burial and methane release becomes especially important when mangroves are represented in global climate models. These updated estimates help resolve a long-standing challenge in climate science: how to represent diverse ecosystems in global climate models with the right balance of greenhouse gas fluxes.
+
+Previously, many Earth system models have either excluded mangrove methane emissions entirely or relied on values derived from freshwater wetlands, which behave differently. Untangling those flows matters if scientists want to predict future warming with greater accuracy.
+
+Methane emissions from wetlands like mangroves are complex because they are influenced by many moving parts: soil chemistry, tidal flooding, salinity, plant root structure and microbial communities, as well as temperature. Higher salinity, for example, can suppress methane production, while frequent tidal flushing can limit how much methane escapes to the atmosphere.
+
+The new research underscores temperature's dominant role among these factors but also highlights how local conditions can amplify or dampen methane release.
+
+For policymakers and conservationists, the message is one of nuance. Mangroves remain among the most effective natural systems for long-term carbon storage, but their climate role is more complex than carbon dioxide alone. Accounting for methane emissions does not weaken the case for protecting and restoring these ecosystems; instead, it strengthens it by offering a more realistic picture of their overall climate impact.
+
+As governments increasingly turn to nature-based solutions, the study highlights the importance of recognizing both the power and the complexity of mangroves when mapping pathways toward a stable climate.

@@ -1,0 +1,41 @@
+Bay Area researchers hope to unlock the secrets of coastal fog — and understand how it’s affected by climate change and pollution
+The Pacific Coastal Fog Research Project will collect samples from throughout California’s coastline
+Considering that it is a fixture of life in California, it’s remarkable how much remains unknown about the fog that regularly flows over the coast from the Pacific Ocean. But a collaboration between researchers throughout the state hopes to change that.
+
+With a five-year, $3.7 million grant from the Heising-Simon Foundation, the Pacific Coastal Fog Research project is poised to lift the veil on the rather mysterious meteorological phenomenon. The scientists will record the fog’s chemical composition, examine how it helps support redwood forests and other ecosystems, and look at the possible effects of climate change and pollution from human activities.
+
+Sara Baguskas and her colleagues at San Francisco State University are one of five teams working on the project. Starting in the spring, they will head out to locations on the coast from San Diego to Humboldt County, carrying towering fog collectors and a slew of sensors measuring temperature, humidity, wind speed and solar radiation.
+
+“It’s the first time we have been funded to carry out interdisciplinary research at a scale that really allows us to answer fundamental questions regarding coastal fog dynamics and impacts on ecosystems,” Baguskas said.
+
+The fog collectors are tree-like structures with a fine mesh net spanning between their branches. Water collected in the mesh drips down and is collected into troughs. Baguskas and her colleagues will deploy covariance towers — metallic structures that continuously measure carbon and water concentrations in the air — and use the data to compare fog events in different places at the same time.
+
+“With this, we can begin to make connections between fog events and the ecosystem response to disentangle the ephemeral and nebulous nature of fog events and make it a little more concrete,” Baguskas said.
+
+Meanwhile, a team led by environmental chemist Peter Weiss-Penzias of UC Santa Cruz will study the fog’s composition, looking for toxic chemicals.
+This past summer, they collected preliminary data for the project in several locations along the coast, including Pacifica and Santa Cruz. They found highly toxic methyl mercury, which is actually a natural component of the fog.
+
+Methyl mercury is formed by bacteria in the depths of the ocean. But at the coast, winds push surface water out to sea, allowing colder, deeper water to rise to the surface. Coastal fog — which forms when moist air condenses over the cool, ocean water and drifts toward shore — then picks up water evaporating from the ocean surface, allowing methyl mercury to hitch a ride onto land.
+
+To study how methyl mercury gets deposited, the researchers take samples of lichens, dissolving them in nitric acid to extract mercury and other metals. Not surprisingly, preliminary studies have found that the amount of methyl mercury in lichens is highest near the coast and rapidly drops off farther inland.
+
+“What I showed is that even though the amount of methyl mercury in fog water is pretty low, there seemed to be an accumulation of mercury in the coastal environment that was higher than the inland environment,” said Weiss-Penzias.
+
+Methyl mercury can accumulate in lichens over time and then move through the food web as lichens are consumed by deer, which in turn are eaten by mountain lions.
+
+Like Baguskas, Weiss-Penzias uses fog collectors to collect data. But he focuses on active collectors — smaller, rectangular prisms which move the fog through the apparatus using fans — rather than simply relying on the wind.
+
+Active collectors require more electricity, maintenance and building time. But they allow cleaner, more controlled fog collection — for example, preventing contamination from bird poop, which can be a problem with a large passive detector. Weiss-Penzias hopes to integrate sensors that track environmental conditions like humidity, weather station information and cameras to help determine the best time to turn on the fans inside the collector.
+
+Weiss-Penzias also aims to study contamination from traffic, industry and other human activities.
+“Fog is very susceptible to air pollution,” he said. “Fog has a much higher propensity, because it lingers in the air and the droplets are really small, so gases and particles can be more easily absorbed.”
+
+Weiss-Penzias and his colleagues plan to place fog collectors across the California coast, including locations near heavy traffic and oil refineries, to study the role of fog in moving pollution around the state.
+
+“If you’re emitting something toxic over here and it gets into the fog, the fog can deliver it somewhere else,” Weiss-Penzias said.
+
+Coastal fog is a dominant provider of water during dry seasons, supporting coastal vegetation, including redwoods. In the past, fog research has mainly focused on how it is affected by weather patterns, but the realization that fog may be vulnerable to contamination from human activities has sparked interest in more interdisciplinary research, like the Pacific Coastal Fog Research project.
+
+Data obtained from the project may help inform decisions on pollution, human and animal health, and other environmental impacts. It will also help Californians learn a bit more about the mysterious mist in their daily routines.
+
+“We now have a chance to work all together to make actions that will allow us to create and improve models of coastal fog and connect it to ecosystems,” Baguskas said. “I would say it’s not a simple story. And our work is going to highlight that.”

@@ -1,0 +1,46 @@
+The way Earth's surface moves has a bigger impact on shifting the climate than we knew
+Our planet has experienced dramatic climate shifts throughout its history, oscillating between freezing "icehouse" periods and warm "greenhouse" states.
+Scientists have long linked these climate changes to fluctuations in atmospheric carbon dioxide. However, new research reveals the source of this carbon—and the driving forces behind it—are far more complex than previously thought.
+
+In fact, the way tectonic plates move about Earth's surface plays a major, previously underappreciated role in climate. Carbon doesn't just emerge where tectonic plates meet. The places where tectonic plates pull away from each other are significant too.
+
+Our new study, published in the journal Communications, Earth and Environment, sheds light on how exactly Earth's plate tectonics have helped to shape global climate over the past 540 million years.
+Peering deep within the carbon cycle
+At the boundaries where Earth's tectonic plates converge, we get chains of volcanoes known as volcanic arcs. Melting associated with these volcanoes unlocks carbon that's been trapped inside rocks for thousands of years, bringing it to Earth's surface.
+
+Historically, it's been thought these volcanic arcs were the primary culprits of injecting carbon dioxide into the atmosphere.
+
+Our findings challenge that view. Instead, we suggest that mid-ocean ridges and continental rifts—locations where the tectonic plates spread apart—have played a much more significant role in driving Earth's carbon cycles throughout geological time.
+
+This is because the world's oceans sequester vast quantities of carbon dioxide from the atmosphere. They store most of it within carbon-rich rocks on the seafloor. Over thousands of years, this process can produce hundreds of meters of carbon-rich sediment at the bottom of the ocean.
+
+As these rocks then move about Earth driven by tectonic plates, they may eventually intersect subduction zones—places where tectonic plates converge. This releases their carbon dioxide cargo back into the atmosphere.
+
+This is known as the "deep carbon cycle." To track the flow of carbon between Earth's molten interior, oceanic plates and the atmosphere, we can use computer models of how the tectonic plates have migrated through geological time.
+What we discovered
+Using computer models to reconstruct how Earth moves carbon stored on tectonic plates, we were able to predict major greenhouse and icehouse climates over the last 540 million years.
+
+During greenhouse periods—when Earth was warmer—more carbon was released than trapped within carbon-carrying rocks. In contrast, during icehouse climates, the carbon sequestration into Earth's oceans dominated, lowering atmospheric carbon dioxide levels and triggering cooling.
+
+One of the key takeaways from our study is the critical role of the deep-sea sediments in regulating atmospheric carbon dioxide. As Earth's tectonic plates slowly move, they carry carbon-rich sediments, which are eventually returned to Earth's interior through a process known as subduction.
+
+We show that this process is a major factor in determining whether Earth is in a greenhouse or icehouse state.
+
+A shift in understanding the role of volcanic arcs
+Historically, the carbon emitted from volcanic arcs has been considered one of the largest sources of atmospheric carbon dioxide.
+
+However, this process only became dominant in the last 120 million years thanks to planktic calcifiers. These little ocean critters belong to a family of phytoplankton whose main talent lies in converting dissolved carbon into calcite. They are responsible for sequestering vast amounts of atmospheric carbon into carbon-rich sediment deposited on the seafloor.
+
+Planktic calcifiers only evolved about 200 million years ago, and spread through the world's oceans about 150 million years ago. So, the high proportion of carbon spewed into the atmosphere along volcanic arcs in the past 120 million years is mostly due to the carbon-rich sediments these creatures created.
+
+Before this, we found that carbon emissions from mid-ocean ridges and continental rifts—regions where tectonic plates diverge—actually contributed more significantly to atmospheric carbon dioxide.
+A new perspective for the future
+Our findings offer a new perspective on how Earth's tectonic processes have shaped, and will continue to shape, our climate.
+
+These results suggest Earth's climate is not just driven by atmospheric carbon. Instead, the climate is influenced by the intricate balance between carbon emissions from Earth's surface and how they get trapped in sediments on the seafloor.
+
+This study also provides crucial insights for future climate models, especially in the context of current concerns over rising carbon dioxide levels.
+
+We now know that Earth's natural carbon cycle, influenced by the shifting tectonic plates beneath our feet, plays a vital role in regulating the planet's climate.
+
+Understanding this deep time perspective can help us better predict future climate scenarios and the ongoing effects of human activity.

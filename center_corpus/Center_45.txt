@@ -1,0 +1,28 @@
+Microsoft plans more server farms, despite water worries
+Redmond has pledged to be carbon-negative by 2030
+It's no secret that datacenters use a ton of water for cooling, a demand that can strain local supplies. Despite reported internal forecasts showing sharply higher water use by 2030, Microsoft continues to splash cash on new AI bit barns.
+
+The technology giant has been given approval to build 15 more server farms at Mount Pleasant in Wisconsin, reports say, near its existing AI datacenter campus, which Microsoft has said is on track to come online in 2026 and has billed as "the world's most powerful AI datacenter."
+
+The new project is expected to be worth more than $13 billion, with the facilities split across two sites just to the northwest of Microsoft's current campus, which occupies land once earmarked for a factory by Taiwanese electronics contract manufacturer Foxconn.
+Local officials on Mount Pleasant's village board signed off on Microsoft's plans this week, according to CNBC, despite some pushback.
+
+Elsewhere, the company has also disclosed plans to spend $30 billion expanding AI datacenters in the UK between 2025 and 2028, alongside a separate $10 billion investment in Portugal, saying it expects to more than double its datacenter capacity across 16 European countries by 2027, all to boost its ability to support AI workloads.
+
+But all this comes at an environmental cost, as reported before, in terms of pollution, greenhouse gas emissions, and water consumption. Microsoft previously conceded that its emissions were up by about 30 percent from a 2020 baseline, despite the company pledging to be carbon-negative by 2030, with the build-out of new datacenters cited as the cause.
+At the end of last year, more than 230 organizations across America signed a letter calling for a moratorium on the construction of datacenters, claiming the current build boom represents a huge environmental and social threat.
+
+Meanwhile, the New York Times claims to have obtained Microsoft documents showing forecasts for the annual water needs of roughly 100 of its campuses worldwide to more than triple to 28 billion liters by 2030, compared to 2020 levels.
+
+These internal forecasts were reportedly made last year, and Microsoft told the newspaper it had updated its projections to reflect new water-saving techniques so that it now expects to use about 18 billion liters of water in 2030, up 150 percent from 2020.
+
+Despite this, the cloud computing behemoth launched its Community-First AI Infrastructure initiative earlier this month, in which it pledged to minimize its use of the wet stuff, and even replenish more water than it draws.
+Microsoft vice chair and president Brad Smith promised greater local transparency, saying that people deserve to know how much water Microsoft datacenters use, and that it is committed to making that information accessible and easy to understand.
+
+That initiative was launched after President Trump took to social media to insist that big technology companies must pay their way, rather than ordinary Americans picking up the tab for the extra energy infrastructure needed for AI datacenters through higher bills.
+
+It isn't just Microsoft that is building new facilities at a frenzied pace, of course, and the same criticisms can be directed at other cloud and datacenter businesses. But perhaps we aren't getting the full picture because of measures such as non-disclosure agreements that local officials are made to sign by some tech companies, as The Register recently reported.
+
+Microsoft was asked to comment for this article, but had not responded by publication time.
+
+The current boom in datacenter construction is only likely to slow if AI investment trails off or the current bubble bursts – which the Bank of England's Financial Policy Committee warned about last year. 

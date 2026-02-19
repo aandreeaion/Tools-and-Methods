@@ -1,0 +1,48 @@
+An app that uses drone footage to track plastic litter on beaches is promoting voluntary cleanup in Ireland
+Plastic pollution is one of those problems everyone can see, yet few know how to tackle it effectively. I grew up walking the beaches around Tramore in County Waterford, Ireland, where plastic debris has always been part of the coastline, including bottles, fragments of fishing gear and food packaging.
+According to the UN, every year 19–23 million tons of plastic lands in lakes, rivers and seas, and it has a huge impact on ecosystems, creating pollution and damaging animal habitats.
+
+Community groups do tremendous work cleaning these beaches, but they're essentially walking blind, guessing where plastic accumulates, missing hot spots, repeating the same stretches while problem areas may go untouched.
+
+Years later, working in marine robotics at the University of Limerick, I began developing tools to support marine cleanup and help communities find plastic pollution along our coastline.
+
+The question seemed straightforward: Could we use drones to show people exactly where the plastic is? And could we turn finding the plastic littered on beaches and cleaning it up into something people enjoy—in other words, "gamify" it? Could we also build on other ways that drones have been used previously, such as tracking wildfires or identifying shipwrecks?
+Building the technology
+At the University of Limerick's Center for Robotics and Intelligent Systems, my team combined drone-based aerial surveillance work with machine-learning algorithms (a type of artificial intelligence) to map where plastic was being littered, and this paired with a free mobile app providing volunteers with precise GPS coordinates for targeted cleanup.
+
+The technical challenge was more complex than it appeared. Training computer vision models to detect a bottle cap from 30 meters altitude, while distinguishing it from similar objects like seaweed, driftwood, shells and weathered rocks, required extensive field testing and checks of the accuracy of the detection system.
+
+The development hasn't been straightforward. Early versions of the algorithm struggled with shadows and confused driftwood for plastic bottles. We spent months refining the system through trial and error on beaches around Clare and Galway so the system can now spot plastic as small as 1 cm.
+
+We conducted hundreds of test flights across Irish coastlines under varying environmental conditions, different lighting, tidal states, weather patterns, building a robust training dataset.
+Ireland's plastic problem
+The urgency of this work becomes clear when you look at the Marine Institute's work. Ireland's 3,172 kilometers of coastline, the longest per capita in Europe, faces a deepening crisis.
+
+A 2018 study found that 73% of deep-sea fish in Irish waters had ingested plastic particles. More than 250 species, including seabirds, fish, marine turtles and mammals have all been reported to ingest large items of plastics.
+
+The costs go beyond harming wildlife, and the economic impact can be significant.
+
+Our drone surveys revealed that some stretches of coast accumulate plastic at rates five to ten times higher than neighboring areas, driven by ocean currents and river mouths. Without systematic monitoring, these hotspots go unaddressed.
+Making the technology accessible
+The plastic detection platform accepts drone imagery from any source, such as ordinary people flying their own drones.
+
+Processing requires only standard laptop software. Users upload footage and receive GPS coordinates showing detected plastic locations. The mobile app, available free on iOS and Android, displays these locations as an interactive map.
+
+Community groups, schools and individuals can see nearby plastic pollution and find it, saving a lot of time.
+
+It has already been tested with five community groups around Ireland with positive results, averaging 30 plastics spotted per ten-minute drone flight, varying by location.
+
+Working through the BluePoint project, which is tackling plastic pollution of coastlines around Europe, we've distributed over 30 drones to partners across Ireland and Europe, including county councils and environmental organizations.
+
+The technology has been deployed in areas including Spanish Point in County Clare, where the local Tidy Towns group (litter-picking volunteers), were named joint Clean Coast Community Group of the Year 2024.
+
+The wider waste story
+This is part of a broader European effort to address plastic pollution. Partners such as the sports store Decathlon are exploring how to transform recovered beach plastics into new consumer products—sports equipment, textiles and components.
+
+The challenge isn't just collection. Beach plastics arrive contaminated with sand and salt, in mixed types and grades. Our ongoing research characterizes what's actually found on Irish coastlines, providing manufacturers with data to design appropriate sorting and recycling processes.
+
+The open source software platforms and the drone technology have already been used in nine countries, engaging more than 2,000 people. Pilot programs are running in France, Spain, Portugal, Brazil and the UK. What began as a question about making beach cleanups more effective has evolved into a practical system connecting citizen action to environmental outcomes.
+
+Community feedback from pilots has been overwhelmingly positive. Groups report that the drone-derived GPS coordinates transform clean-up work. One participating Tidy Towns group said that volunteers now head straight to flagged locations.
+
+Groups have also reported increased participation. The gamification aspect appeals to families and participants who might not volunteer otherwise. Additionally, the data we've gathered so far is being used by local authorities to understand litter patterns and inform policy decisions around waste management and coastal protection.

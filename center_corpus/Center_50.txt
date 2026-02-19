@@ -1,0 +1,58 @@
+Air pollution crosses borders, and so must the policies aimed at tackling it
+Parts of India, including the capital Delhi, were once again covered in thick smog recently as toxic pollution from industry and crop-burning engulfed the region. Even though India’s National Clean Air Programme has advanced clean air action, air pollution remains a reoccurring problem.
+
+Reliably protecting public health will require tighter co-ordination across orders of governments and departments. Air pollution is shaped by different economic sectors, weather, geography and siloed institutions. Single-sector fixes alone, like pausing construction or banning older vehicles, are unlikely to deliver system-wide change.
+
+That’s why our team conducted a study to map air quality governance in India as an interconnected system, linking the parts that determine what gets measured, what gets enforced, what gets funded and what persists beyond city boundaries.
+
+In addition to the authors of this article, our research team included Christoph Becker and Teresa Kramarz from the University of Toronto, Om Damani and Anshul Agarwal at the Indian Institute of Technology Bombay and Ronak Sutaria from the environmental consultant Respirer Living Sciences.
+
+Our goal was to identify leverage points in current governance where shifts could deliver the greatest pollution-related health benefits.
+
+If we want clean air to be a public service, we need pathways for communities to participate meaningfully. Our research argues for steady funding and training to build community monitoring literacy so accountability and action persist beyond political cycles.
+Developing hyper-local monitoring
+One hopeful example comes from the city of Bengaluru in the south of the country.
+
+In this case, community groups installed monitors near schools and hospitals, using the data to spotlight the problem and seek court-mandated enforcement — underscoring the need for clear pathways to use community-generated data in enforcement.
+
+The efforts by the communities aren’t meant to be a substitute for government enforcement. The point is to empower communities and give them a real choice in a system where they have very little voice.
+The government monitors air pollution to track pollution levels over time and across locations, and to evaluate whether policies and enforcement are improving air quality.
+
+Although India does need to scale monitoring capacities and make them equitable, we already have enough data streams from satellite observations, reference-grade monitors and low-cost sensors.
+
+The real governance gap is in how these data streams can be used for action: standards for calibration in local conditions, quality assurance and control, and protocols for integrating evidence into enforcement and planning.
+
+We recommend certification and quality assurance and control protocols for hyper-local monitoring so agencies can rely on the data for decisions and enforcement.
+
+Cities elsewhere in the world have treated hyper-local monitoring as more than an awareness tool. In London, the Breathe London programme deployed hundreds of sensors alongside existing reference-grade monitors under a defined quality-assurance framework.
+
+This data played a critical role in identifying street-level pollution hotspots, evaluating traffic interventions and assessing the impacts of policies such as the city’s Ultra Low Emission Zone. Indian governments can learn from this example.
+
+When data is standardized for defined-decision contexts, it enables decision-making.
+
+Governing the airshed
+Air pollution does not respect regional or city boundaries. Yet, the National Clean Air Programme often assigns actions to cities, even when cities cannot control a large share of the pollution they face. For example, even when Delhi tightens local restrictions of cars or construction, at least a dozen coal-fired power plants near the city continue to operate without key pollution filters.
+
+This is why we need governance at the airshed scale. An airshed is a region where local weather and geography, such as mountains, influence how air and pollutants move.
+
+Governments must look at how air pollution spreads in an area, then develop rules for co-ordinating across jurisdictions. That means setting out clear roles for different departments, establishing shared data standards and creating dispute-resolution mechanisms so co-ordinated efforts can address the issue effectively.
+
+Right now, the Clean Air Programme is centred on cutting the level of particulate matter in the air by roughly 20-30 per cent. A more actionable approach is figuring out which sectors are driving the airshed pollution — namely transport, construction, industry, power, waste and household fuels — and what sector-specific targets and timelines would actually lead to healthier air.
+
+India’s Commission for Air Quality Management (CAQM), for example, was created specifically to put airshed-level management into practice across state and jurisdictional boundaries under the National Clean Air Programme.
+
+The hardest part is assigning enforceable responsibilities across ministries (like power, transport, agriculture, industry, urban development) at the national, state and local levels, as well as across states.
+
+For instance, agencies like CAQM (and NCAP more broadly) can take airshed-wide pollution inventories (estimates of how much pollution comes from different sources and sectors across an airshed) and translate them into short-term, sector-by-sector targets for each ministry, with deadlines and clear accountability.
+Rewrite the objective to protect health
+In our paper, we recommend expanding regulatory goals to include public health protection, in addition to meeting particulate matter targets. Putting health at the centre can shape governmental priorities, pushing agencies to focus first on the sources people are most exposed to.
+
+As Ronak Sutaria, the founder and CEO of Respirer Living Sciences and a co-author of our study, told us:
+
+“Air pollution isn’t an environmental statistic; it’s a public-health emergency that shows up in asthma, heart disease and hospital admissions. When we map air quality at the neighbourhood level and link it to health outcomes, clean air can move from a promise to a right — because communities can see what they’re breathing and what it means for their health, and that changes what polluters can get away with.”
+
+A health-first objective also pushes governance toward equity, because exposure burdens are unevenly distributed across different segments of the population.
+
+This an opportunity to align clean-air action with climate goals, while the up-front costs for mitigation are almost always offset by avoided health costs and higher productivity.
+
+Airsheds differ, and so must actions to clean up the air. The value of systems thinking is that it offers a common way to understand what is limiting progress locally and design governance that fits local realities.

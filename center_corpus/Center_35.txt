@@ -1,0 +1,31 @@
+Air fryers emit fewer VOCs and ultra-fine particles than other forms of frying—if you clean them
+Cooking even very fatty food in an air fryer produces fewer airborne particles than other forms of frying, according to a new study from the University of Birmingham. The work is one of the first studies detailing the spectrum of pollutants emitted from air frying, which consumer surveys suggest is quickly becoming one of the most used appliances in UK homes.
+The research found that air-frying different foods produces fewer volatile organic compounds (VOCs) and ultra-fine particles than typical cooking alternatives such as shallow or deep-fat frying.
+
+The findings appear in ACS ES&T Air .
+
+Following a previous paper showing that air frying contributed significantly fewer VOCs when cooking chicken breast, the team looked at whether there were differences based on fat content found in foods. VOCs and ultra-fine particles are both linked to human health concerns, yet only a few studies have looked at the link between household pollutants such as VOCs and health compared to outdoor pollutants.
+
+The research team used custom-made air quality chambers to more sensitively measure VOCs and other airborne particles emitted during cooking. A commercially available 4.7l air fryer was used for the experiments, and the team cooked batches of frozen fried, fresh low-fat, and fresh high-fat foods to compare emissions.
+
+Among the foods cooked in the air fryer, frozen onion rings (possibly due to pre-fried oil coating), smoked bacon and unsmoked bacon (both of which contain cured fat and their thin shape leading to near-instantaneous frying of fats) produced the highest levels of cooking-related emissions.
+
+However, cooking high fat foods in a deep fat fryer produces 10–100 times higher levels of VOCs. This is consistent with the pollutant levels found in earlier work by the team in a research kitchen cooking lean chicken breast in oil with different methods.
+
+Professor Christian Pfrang from the University of Birmingham and senior author of the study said, "This study is the latest that shows the potential benefits for indoor air quality of using air fryers for cooking. While our previous study only looked at one type of food—lean chicken—we wanted to look at a greater range of foodstuffs, including ones with higher fat content, to see how they compare specifically when cooked in an air fryer."
+
+Ruijie Tang, the first author and final-year Ph.D. student at the University of Birmingham who carried out the experiments, said, "The results confirmed that while foods with high fat content do produce more emissions in the air fryer, they produce only a fraction of what we see in cooking methods such as shallow or deep-fat frying.
+
+"Using a bespoke air quality chamber for this latest study has allowed us to get a much more detailed look at emissions from air frying too, helping us to focus only on the contributions to air pollutants from cooking."
+Prolonged use without deep cleaning leads to background emissions
+The team also found that the air fryers began emitting VOCs and ultra-fine particles during an empty tray test to look at residual emissions.
+
+Tests with an air fryer used more than 70 times revealed 23% more cooking-related VOCs and more than twice as many ultra-fine particles emitted. The team attributed this to the build-up of residues on the air fryer in areas that the team could not reach for cleaning.
+
+Cooking-related ultra-fine particles measured in these tests, including the background emissions from an older machine, were still significantly lower than those from other cooking techniques.
+
+The study also provides a detailed analysis of the types of VOCs emitted during cooking, which have been linked with health concerns. Ketones, aldehydes, and alkenes from heated oils and food browning were observed across all foodstuffs cooked, but total levels of all VOCs were many times lower than recommended limits set by UK Government Buildings Regulations.
+
+Professor Pfrang said, "Our study shows that repeated use of air fryers without being able to clean the more inaccessible cooking surfaces can negate some of the benefits for indoor air quality. While the effects are not producing emissions that families should be concerned about, this finding does make a case for air fryer design that allows for a deep clean to keep emissions low in the long term.
+
+"Air quality in the home and other indoor environments is being increasingly recognized as an important factor, and our body of work will provide households with a better understanding of how kitchen activities affect the air we breathe in our homes."
