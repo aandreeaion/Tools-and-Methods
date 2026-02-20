@@ -1,1 +1,3 @@
-# Thematic Analysis of Climate Change News depending on Political Orientationn
+# Thematic Analysis of Climate Change News across Political Orientations
+
+
